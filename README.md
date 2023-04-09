@@ -1,1 +1,1 @@
-# eecs-feedback-system
+# qmul-eecs-connect
